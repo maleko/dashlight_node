@@ -1,17 +1,21 @@
 {
-  "name": "dashlight",
-  "version": "0.0.1",
-  "description": "Hack Dash Amazon to link to your LIFX",
-  "main": "app.js",
-  "dependencies": {
-    "express": "^4.13.3",
-    "node": "^0.0.0",
-    "nodejs": "^0.0.0"
-  },
-  "devDependencies": {},
+  "name": "dashlight_node",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "author": "Marc Lee",
-  "license": "MIT"
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "morgan": "~1.6.1",
+    "node-dash-button": "github:maleko/node-dash-button",
+    "node-lifx": "^0.2.0",
+    "pcap": "github:mranney/node_pcap",
+    "serve-favicon": "~2.3.0",
+    "socketwatcher": "^0.3.0"
+  }
 }
