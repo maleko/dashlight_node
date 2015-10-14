@@ -1,0 +1,17 @@
+{
+  "name": "dashlight",
+  "version": "0.0.1",
+  "description": "Hack Dash Amazon to link to your LIFX",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "node": "^0.0.0",
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Lee",
+  "license": "MIT"
+}
