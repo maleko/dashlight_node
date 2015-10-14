@@ -1,0 +1,6 @@
+{
+  "access-token": "ACCESS TOKEN",
+  "lights": {
+    "MAC Address": "Label for LIFX buld"
+  }
+}
