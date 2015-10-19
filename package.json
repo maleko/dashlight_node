@@ -17,5 +17,9 @@
     "pcap": "github:mranney/node_pcap",
     "serve-favicon": "~2.3.0",
     "socketwatcher": "^0.3.0"
+  },
+  "devDependencies": {
+    "expresso": "^0.9.2",
+    "should": "^7.1.0"
   }
 }

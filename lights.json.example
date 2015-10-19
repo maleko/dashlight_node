@@ -1,6 +1,9 @@
 {
-  "access-token": "ACCESS TOKEN",
+  "access_token": "ACCESS TOKEN",
   "lights": {
-    "MAC Address": "Label for LIFX buld"
+    "mac_address": {
+      "dash": "Dash Label",
+      "label": "Label for LIFX buld"
+    }
   }
 }
