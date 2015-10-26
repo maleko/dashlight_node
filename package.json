@@ -11,9 +11,9 @@
     "debug": "~2.2.0",
     "express": "~4.13.1",
     "jade": "~1.11.0",
-    "lifx-api": "^1.0.1",
     "morgan": "~1.6.1",
     "node-dash-button": "github:maleko/node-dash-button",
+    "node-lifx": "^0.3.0",
     "pcap": "github:mranney/node_pcap",
     "serve-favicon": "~2.3.0",
     "socketwatcher": "^0.3.0"
