@@ -1,5 +1,4 @@
 {
-  "access_token": "ACCESS TOKEN",
   "lights": {
     "mac_address": {
       "dash": "Dash Label",
