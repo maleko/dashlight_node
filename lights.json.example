@@ -2,7 +2,7 @@
   "lights": {
     "mac_address": {
       "dash": "Dash Label",
-      "label": "Label for LIFX buld"
+      "label": "Label for LIFX bulb"
     }
   }
 }
